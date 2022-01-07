@@ -12,7 +12,7 @@ OSTech Enhancement Proposals. OEPs should be proposed in issues and propose new 
   **Status**: <OEP Status>
   **Regarding**: <The OSTech project this OEP regards>
   **Created**: <Date of this OEP's creation in yyyy-mm-dd format>
-  **Issue**: (and/or PR)**: <Issue and/or PR from which this came>
+  **Discussion**: <Issue and/or PR from which this came>
 ## Content
 <The actual content of the OEP>
 ```
